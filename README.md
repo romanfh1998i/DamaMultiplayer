@@ -1,6 +1,5 @@
 # DamaMultiplayer
-Este un proyecto hecho para el instituto cic de intellysis como finalizacion de los cursos aprendido en instituto El juego da error en la parte de update y dice que esta fuera de rango Es decision tuya corre este proyecto Estos son los requiremientos
-
+Este un proyecto hecho para el instituto cic de intellysis como finalizacion de los cursos aprendido en instituto 
 Mini-proyecto a realizar: JUEGO DE DAMAS
 
 Las damas es un juego de mesa para dos contrincantes. El juego consiste en mover las piezas en diagonal a través de los cuadros negros (o blancos) de un tablero de 8x8 (64 cuadros) con la intención de capturar (comer) las piezas del jugador contrario, pasando por encima de dichas piezas. ¿Qué debes hacer?
